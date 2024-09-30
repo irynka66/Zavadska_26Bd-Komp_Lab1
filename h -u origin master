@@ -1,0 +1,23 @@
+[33mcommit cd84351f7bfdefab380c74f5876f14072a272743[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Ira_Zavadska <izavadskaa502@gmail.com>
+Date:   Mon Sep 30 18:03:45 2024 +0300
+
+    new in index.html
+
+[33mcommit e2f758f439658ce5fe6ebaa337f7cf65afa0794f[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Ira_Zavadska <izavadskaa502@gmail.com>
+Date:   Mon Sep 30 17:45:58 2024 +0300
+
+    Change p -> h1 in index.html
+
+[33mcommit d3409eb1c30ed0f0e884428b7bd743ccfe640ac7[m
+Author: Ira_Zavadska <izavadskaa502@gmail.com>
+Date:   Mon Sep 30 17:35:27 2024 +0300
+
+    Change p -> h2 in index.html
+
+[33mcommit 18e57ad38ae3c202210adf37645de2a051030626[m
+Author: Ira_Zavadska <izavadskaa502@gmail.com>
+Date:   Mon Sep 30 17:28:11 2024 +0300
+
+    Create project
